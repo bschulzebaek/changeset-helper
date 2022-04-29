@@ -1,10 +1,10 @@
 # changeset-helper
 
-[![Publish](https://github.com/bschulzebaek/changeset-helper/actions/workflows/publish.yml/badge.svg)](https://github.com/bschulzebaek/changeset-helper/actions/workflows/publish.yml) [![Unit](https://github.com/bschulzebaek/changeset-helper/actions/workflows/test.yml/badge.svg)](https://github.com/bschulzebaek/changeset-helper/actions/workflows/test.yml) [![Build](https://github.com/bschulzebaek/changeset-helper/actions/workflows/build.yml/badge.svg)](https://github.com/bschulzebaek/changeset-helper/actions/workflows/build.yml) ![License](https://img.shields.io/github/license/bschulzebaek/changeset-helper) ![PRs](https://img.shields.io/badge/PRs-Welcome-informational)
+[![Publish](https://github.com/bschulzebaek/changeset-helper/actions/workflows/publish.yml/badge.svg)](https://github.com/bschulzebaek/changeset-helper/actions/workflows/publish.yml) [![Unit](https://github.com/bschulzebaek/changeset-helper/actions/workflows/test.yml/badge.svg)](https://github.com/bschulzebaek/changeset-helper/actions/workflows/test.yml) [![Build](https://github.com/bschulzebaek/changeset-helper/actions/workflows/build.yml/badge.svg)](https://github.com/bschulzebaek/changeset-helper/actions/workflows/build.yml) ![PRs](https://img.shields.io/badge/PRs-Welcome-informational)
 
 
 
-A small helper for generating changesets based on the diff between to objects of any depth. The changeset is divided into "additions", "changes" and "deletions".
+A small helper for generating changesets based on the diff between two objects of any depth. The changeset is divided into "additions", "changes" and "deletions".
 
 * [Installation](#installation)
 * [Usage](#usage)
