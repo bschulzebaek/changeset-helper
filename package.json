@@ -1,6 +1,6 @@
 {
     "name": "changeset-helper",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "A small helper for generating changesets based on the diff between to objects of any depth.",
     "author": "Benedikt Schulze Baek <benedikt@schulze-baek.de>",
     "license": "MIT",
