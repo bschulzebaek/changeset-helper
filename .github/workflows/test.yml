@@ -1,0 +1,11 @@
+name: Unit
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install dependencies
+      run: npm ci
+    - name: Run tests (Jest)
+      run: npm run test
