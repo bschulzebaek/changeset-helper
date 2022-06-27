@@ -28,5 +28,7 @@
         "type": "git",
         "url": "git+https://github.com/bschulzebaek/changeset-helper.git"
     },
-    "keywords": ["object", "diff", "object-diff", "changeset", "typescript"]
+    "keywords": [
+        "object", "diff", "object-diff", "changeset", "typescript"
+    ]
 }
